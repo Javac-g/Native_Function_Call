@@ -41,7 +41,7 @@ Make sure you have:
 
 ### **2️⃣ Clone the Repo**  
 ```sh  
-git clone https://github.com/yourusername/java-native-benchmark.git  
+git clone https://github.com/Javac-g/java-native-benchmark.git  
 cd java-native-benchmark  
 ```
 
